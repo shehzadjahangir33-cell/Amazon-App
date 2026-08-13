@@ -1,8 +1,21 @@
 {
-  "name": "Amazon Seller App",
-  "short_name": "Amazon Seller",
+  "name": "Amazon Seller",
+  "short_name": "Amazon",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#232f3e"
+  "theme_color": "#232f3e",
+  "description": "Amazon Seller Central App",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
