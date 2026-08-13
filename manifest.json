@@ -1,0 +1,8 @@
+{
+  "name": "Amazon Seller App",
+  "short_name": "Amazon Seller",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#232f3e"
+}
